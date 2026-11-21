@@ -14,4 +14,4 @@ A desktop GUI application built with **JavaFX** and Object-Oriented Programming 
 - CSV file handling for data storage
 
 ## Author
-Pathan Ali Azgar Leo — CSE, East West University
+Pathan Ali Ajgor Leo — CSE, East West University
